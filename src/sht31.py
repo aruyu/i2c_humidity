@@ -1,9 +1,9 @@
 """
  *  NOTE      - sht31.py
- *  Author    - Ista
+ *  Author    - Asta
  *
  *  Created   - 2022.11.18
- *  Github    - https://github.com/vine91
+ *  Github    - https://github.com/astaos
  *  Contact   - vine9151@gmail.com
 """
 
