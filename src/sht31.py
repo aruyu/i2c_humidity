@@ -68,7 +68,7 @@ class Sht31:
 
     print("\n")
 
-    time.sleep(1)
+    time.sleep(60)
     t, h = self.get_temp_humi()
 
     if h <= 2:
